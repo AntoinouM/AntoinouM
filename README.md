@@ -23,6 +23,7 @@
 - 🌱 I am learning Typescript and NextJs.
 
 <details>
+  <summary style="text-size:1.5rem;">&nbsp;&nbsp;&nbsp;My stack</summary><br/>
   
 ## My Stack
 
