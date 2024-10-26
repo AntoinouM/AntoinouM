@@ -4,31 +4,41 @@
   <a href="https://antoinemuneret.dev/">
     <img src="https://raw.githubusercontent.com/AntoinouM/Portofolio/refs/heads/main/assets/me-modified.png" width="300" alt="My picture" />
   </a>
+    <br />
+    <br />
+  <h2>Full Stack Developer</h2>
+  <br />
+  <h3>📍  Vienna, Austria </h3>
 </p>
 
 
 ## Currently
+- 👀 Looking for a full time position
 - 🔭 I am working on developing a 2D game.
 - 🌱 I am learning Typescript and NextJs.
 
 ## My Stack
 
-### 💬 Languages
+#### 💬 Languages
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### 📚 Frameworks
+#### 🚀 Frameworks
 ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=#4FC08D&color)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS Badge](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 📊 Data visualisation
+![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 
 <h3 align="center">Words are good, pictures are better.</h3>
 
