@@ -22,11 +22,8 @@
 - 🔭 I am working on developing a 2D game.
 - 🌱 I am learning Typescript and NextJs.
 
-<details>
+<details open>
   <summary style="text-size:1.5rem;">&nbsp;&nbsp;&nbsp;My stack</summary><br/>
-  
-## My Stack
-
 #### 💬 Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
