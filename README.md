@@ -19,6 +19,8 @@
 ### 📚 Frameworks
 ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=#4FC08D&color)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
