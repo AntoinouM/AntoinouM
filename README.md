@@ -6,7 +6,7 @@
   </a>
     <br />
     <br />
-  <h1 align="center">Full Stack Developer</h2>
+  <h1 align="center">Front End Developer</h2>
   <p align="center">📍  Vienna, Austria </p>
 </p>
 
@@ -16,6 +16,8 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntoinouM)
 [![Portofolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://antoinemuneret.dev)
 
+### Who I am
+I am a front end developer (I also do Back end a bit)! I love coding as much as I love climbimg, so when I am attached to a rope I am to my keyboard.
 
 ## Currently
 - 👀 Looking for a full time position
