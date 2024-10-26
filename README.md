@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://antoinemuneret.dev/">
-    <img src="https://raw.githubusercontent.com/AntoinouM/Portofolio/refs/heads/main/public/Pictures/me.png" style="borderRadius: 50%" width="300" alt="My picture" />
+    <img src="https://raw.githubusercontent.com/AntoinouM/Portofolio/refs/heads/main/public/Pictures/me.png" style="border-radius:50%" width="300" alt="My picture" />
   </a>
 </p>
 
