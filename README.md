@@ -1,4 +1,4 @@
-# Hi there 👋 - I am Antoine Muneret
+### Hi there 👋 - I am Antoine Muneret
 
 <p align="center">
   <a href="https://antoinemuneret.dev/">
