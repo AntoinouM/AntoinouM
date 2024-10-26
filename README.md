@@ -1,9 +1,3 @@
-<style>
-  .rounder {
-    border-radius: 50%;
-  }
-</style>
-
 # Hi there 👋 - I am Antoine Muneret
 
 <p align="center">
@@ -37,6 +31,12 @@
 <h3 align="center">Words are good, pictures are better.</h3>
 
 <br/>
+
+<style>
+  .rounder {
+    border-radius: 50%;
+  }
+</style>
 
 <!--
 **AntoinouM/AntoinouM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
