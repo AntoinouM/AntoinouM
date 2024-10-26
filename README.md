@@ -6,8 +6,7 @@
   </a>
     <br />
     <br />
-  <h2>Full Stack Developer</h2>
-  <br />
+  <h1 align="center">Full Stack Developer</h2>
   <h3>📍  Vienna, Austria </h3>
 </p>
 
