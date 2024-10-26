@@ -8,10 +8,10 @@
     <br />
   <h1 align="center">Full Stack Developer</h2>
   <p align="center">📍  Vienna, Austria </p>
-  <div align="center" style="display:flex; gap:10px">
-      <a href="">![Github](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
-  </div>
 </p>
+
+### Let's connect
+[![Github](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/AntoinouM)
 
 
 ## Currently
