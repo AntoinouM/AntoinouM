@@ -21,8 +21,8 @@ I am a front end developer (I also do Back end a bit)! I love coding as much as 
 
 ## Currently
 - 👀 Looking for a full time position
-- 🔭 I am working on developing a 2D game.
-- 🌱 I am learning Typescript and NextJs.
+- 🔭 I am working on a ios App.
+- 🌱 I am learning PostgreSQL and React Native (Expo).
 
 <details open>
   <summary style="text-size:1.5rem;">&nbsp;&nbsp;&nbsp;My stack</summary>
@@ -30,18 +30,16 @@ I am a front end developer (I also do Back end a bit)! I love coding as much as 
 #### 💬 Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SCSS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 #### 🚀 Frameworks
 ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=#4FC08D&color)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular]([https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB])
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![SCSS Badge](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS Badge](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
 #### 📊 Data visualisation
 ![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
