@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoine.muneret2@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-muneret-5b81b9123/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntoinouM)
-[![Portofolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://antoinemuneret.dev)
+[![Portofolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://antoinemuneret.com)
 
 ### Who I am
 I am a front end developer (I also do Back end a bit)! I love coding as much as I love climbimg, so when I am attached to a rope I am to my keyboard.
@@ -37,7 +37,7 @@ I am a front end developer (I also do Back end a bit)! I love coding as much as 
 #### 🚀 Frameworks
 ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=#4FC08D&color)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Angular]([https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB])
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![SCSS Badge](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
